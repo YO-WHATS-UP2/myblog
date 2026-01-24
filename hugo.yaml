@@ -56,9 +56,7 @@ services:
     # Change it to your Disqus shortname before using
     disqus:
         shortname: "sairam-sok-2026"
-    # GA Tracking ID
-    googleAnalytics:
-        id:
+    
 
 pagination:
     pagerSize: 3
