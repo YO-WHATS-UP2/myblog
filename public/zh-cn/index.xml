@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>演示站点</title>
-        <link>http://localhost:1313/zh-cn/</link>
+        <link>http://localhost:1313/myblog/zh-cn/</link>
         <description>Recent content on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Sairam Bisoyi</copyright><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Sairam Bisoyi</copyright><atom:link href="http://localhost:1313/myblog/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
