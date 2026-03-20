@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Sairam Bisoyi</title>
+      <link>https://yo-whats-up2.github.io/myblog</link>
+      <description>Last 10 notes on Sairam Bisoyi</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://yo-whats-up2.github.io/myblog/Personal-Guides/Falkon/</link>
+    <guid>https://yo-whats-up2.github.io/myblog/Personal-Guides/Falkon/</guid>
+    <description><![CDATA[ This particular guides are for myself in which i made mistakes and so that i won’t repeat them agian. ]]></description>
+    <pubDate>Fri, 20 Mar 2026 12:00:59 GMT</pubDate>
+  </item><item>
+    <title>Sairam Bisoyi</title>
+    <link>https://yo-whats-up2.github.io/myblog/</link>
+    <guid>https://yo-whats-up2.github.io/myblog/</guid>
+    <description><![CDATA[ Welcome to my digital garden! 👋 I am a developer and open-source contributor. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Falkon Connect</title>
+    <link>https://yo-whats-up2.github.io/myblog/SOK-2026/Blog-1-Introduction</link>
+    <guid>https://yo-whats-up2.github.io/myblog/SOK-2026/Blog-1-Introduction</guid>
+    <description><![CDATA[ Falkon Connect: Architecting a XMPP &amp; WebXDC Bridge from Scratch Computers and networks are faster than ever, yet modern communication software is increasingly bloated, centralized, and locked behind walled gardens like WhatsApp, Slack, or Discord. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Season of KDE 2026: Falkon &amp; XMPP</title>
+    <link>https://yo-whats-up2.github.io/myblog/SOK-2026/</link>
+    <guid>https://yo-whats-up2.github.io/myblog/SOK-2026/</guid>
+    <description><![CDATA[ 🌐 Season of KDE 2026: The Journey Welcome to the documentation of my contribution to the KDE Community during the 2026 season. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Falkon guide to build</title>
+    <link>https://yo-whats-up2.github.io/myblog/Personal-Guides/Falkon/falkon</link>
+    <guid>https://yo-whats-up2.github.io/myblog/Personal-Guides/Falkon/falkon</guid>
+    <description><![CDATA[ 1. Environment Preparation First, install all necessary libraries for the Qt6/KF6 stack. ]]></description>
+    <pubDate>Wed, 04 Feb 2026 18:30:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

@@ -1,0 +1,35 @@
+/* quartz/styles/custom.scss */
+@font-face {
+  font-family: 'Special Elite';
+  src: url('/static/fonts/SpecialElite.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --headerFont: "Special Elite", "Courier New", monospace;
+  --bodyFont: "Special Elite", "Courier New", monospace;
+  --codeFont: "Special Elite", "Courier New", monospace;
+}
+
+/* Make all Headings Purple */
+h1, h2, h3, h4, h5, h6 {
+  color: #a882ff; /* The Obsidian Purple */
+}
+
+/* If the heading is a link, make sure it stays purple */
+h2 a, h3 a {
+  color: #a882ff !important;
+  text-decoration: none;
+}
+
+/* Make all Headers (h1-h6) Obsidian Purple */
+h1, h2, h3, h4, h5, h6 {
+  color: #a882ff;
+}
+
+/* Optional: Make the Page Title (specifically) Purple */
+.article-title {
+  color: #a882ff;
+}
+

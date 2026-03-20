@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+public/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
